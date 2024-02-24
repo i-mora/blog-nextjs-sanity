@@ -23,6 +23,7 @@
 .vscode
 *.iml
 .idea
+.npmrc
 
 # debug
 npm-debug.log*
